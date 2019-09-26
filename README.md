@@ -15,16 +15,16 @@
 ネットワークの基礎、など。
 皆さんの書いたプログラムが、どうやって動いているのかを垣間見る事ができます。
 
-[ppt](ppt\0.ComputerBasic.pptx)
+[ppt](ppt/0.ComputerBasic.pptx)
 
 2. .NET
 
 .NET の歴史を見ていきます。コアとなる .NET Framework などのランタイムの内部機構。WPF/WCFやASP.NET/ADO.NET などのライブラリーについて取り扱います。
 
-[ppt](ppt\1.NET.pptx)
+[ppt](ppt/1.NET.pptx)
 
 3. RDBMS - SQL Server を例に
 
 いまだにシステムは Web - RDBMS が多いです。Relational Database の代表でもある SQL Server を例に、SQL文そのものや、SQLが発行された後で、中で何が行われているかを見ていきます。
 
-[ppt](ppt\2.SQLServer.pptx)
+[ppt](ppt/2.SQLServer.pptx)
